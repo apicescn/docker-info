@@ -3,7 +3,7 @@
 <a name="2d6ysi"></a>
 # 1 修改主机名称
 ```bash
-hostnamectl --static set-hostname  k8s-master01
+hostnamectl --static set-hostname  xxx-xxx01
 ```
 
 
